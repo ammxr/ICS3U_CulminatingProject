@@ -1,0 +1,46 @@
+ 2022-02-25 17:59:38,264 - DEBUG - Program Starting
+ 2022-02-25 17:59:38,264 - INFO - Calling percentCalc() using original value of10 and 50%
+ 2022-02-25 17:59:38,265 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-25 17:59:38,265 - INFO - Basing from 10 applying50% off 
+ 2022-02-25 17:59:38,265 - DEBUG - percentCalc function succesfully returned value.
+ 2022-02-25 17:59:38,265 - INFO - Calling percentCalc() using original value of20 and 20%
+ 2022-02-25 17:59:38,265 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-25 17:59:38,265 - INFO - Basing from 20 applying20% off 
+ 2022-02-25 17:59:38,265 - DEBUG - percentCalc function succesfully returned value.
+ 2022-02-25 17:59:38,265 - INFO - Calling percentCalc() using original value of111 and -20%
+ 2022-02-25 17:59:38,265 - ERROR - Percentage must be between 1-100
+ 2022-02-25 17:59:38,265 - INFO - Calling pointsProgramCount using adults value of1 and childs value of 2
+ 2022-02-25 17:59:38,265 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-25 17:59:38,265 - INFO - Calculating points with 1 worth 1 point each and  2 worth 0.2 points each
+ 2022-02-25 17:59:38,265 - DEBUG - pointsProgramCount function succesfully returned value.
+ 2022-02-25 17:59:38,265 - INFO - Calling pointsProgramCount using adults value of2 and childs value of 4
+ 2022-02-25 17:59:38,265 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-25 17:59:38,265 - INFO - Calculating points with 2 worth 1 point each and  4 worth 0.2 points each
+ 2022-02-25 17:59:38,266 - DEBUG - pointsProgramCount function succesfully returned value.
+ 2022-02-25 17:59:38,266 - INFO - Calling pointsProgramCount using adults value of0 and childs value of 0
+ 2022-02-25 17:59:38,266 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-25 17:59:38,266 - INFO - Calculating points with 0 worth 1 point each and  0 worth 0.2 points each
+ 2022-02-25 17:59:38,266 - DEBUG - pointsProgramCount function succesfully returned value.
+ 2022-02-26 23:26:35,321 - DEBUG - Program Starting
+ 2022-02-26 23:26:35,321 - INFO - Calling percentCalc() using original value of10 and 50%
+ 2022-02-26 23:26:35,321 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-26 23:26:35,321 - INFO - Basing from 10 applying50% off 
+ 2022-02-26 23:26:35,321 - DEBUG - percentCalc function succesfully returned value.
+ 2022-02-26 23:26:35,321 - INFO - Calling percentCalc() using original value of20 and 20%
+ 2022-02-26 23:26:35,321 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-26 23:26:35,321 - INFO - Basing from 20 applying20% off 
+ 2022-02-26 23:26:35,321 - DEBUG - percentCalc function succesfully returned value.
+ 2022-02-26 23:26:35,321 - INFO - Calling percentCalc() using original value of111 and -20%
+ 2022-02-26 23:26:35,321 - ERROR - Percentage must be between 1-100
+ 2022-02-26 23:26:35,321 - INFO - Calling pointsProgramCount using adults value of1 and childs value of 2
+ 2022-02-26 23:26:35,322 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-26 23:26:35,322 - INFO - Calculating points with 1 worth 1 point each and  2 worth 0.2 points each
+ 2022-02-26 23:26:35,322 - DEBUG - pointsProgramCount function succesfully returned value.
+ 2022-02-26 23:26:35,322 - INFO - Calling pointsProgramCount using adults value of2 and childs value of 4
+ 2022-02-26 23:26:35,322 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-26 23:26:35,322 - INFO - Calculating points with 2 worth 1 point each and  4 worth 0.2 points each
+ 2022-02-26 23:26:35,322 - DEBUG - pointsProgramCount function succesfully returned value.
+ 2022-02-26 23:26:35,322 - INFO - Calling pointsProgramCount using adults value of0 and childs value of 0
+ 2022-02-26 23:26:35,322 - DEBUG - Valid parameters entered, returning calculation.
+ 2022-02-26 23:26:35,322 - INFO - Calculating points with 0 worth 1 point each and  0 worth 0.2 points each
+ 2022-02-26 23:26:35,322 - DEBUG - pointsProgramCount function succesfully returned value.
